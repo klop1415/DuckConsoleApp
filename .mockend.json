@@ -1,6 +1,6 @@
 {
   "Player": {
     "name": { "string": {} },
-    "score": { "int":{} }
+    "score": { "int":{ "min": -100, "max": 2000 } }
   }
 }
