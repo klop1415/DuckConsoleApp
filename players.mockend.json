@@ -1,0 +1,8 @@
+{
+  "User": {
+    "name": { "string": {} },
+  "score": {
+      "int": {}
+    }
+  }
+}
